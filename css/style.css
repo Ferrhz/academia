@@ -192,6 +192,7 @@ transition:0.3s
 
 .footer{
   display: flex;
+  
   max-width: 100%;
   background-color: #000;
 }
